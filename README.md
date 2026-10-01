@@ -38,7 +38,8 @@ Tic-tac-toe/
 │── style.css    # Styling
 │── script.js    # Game logic
 │── README.md    # Project documentation
-🛠 Technologies Used:
+
+# 🛠 Technologies Used:
 
 1.HTML5
 
